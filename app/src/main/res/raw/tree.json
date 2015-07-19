@@ -1,0 +1,79 @@
+[{
+scene_img_id : 1,
+isRoot : true,
+children_node:[
+	{
+	scene_img_id : 2,
+	isRoot : false,
+	children_node:[
+		 {
+			scene_img_id : 4,
+			 isRoot : false,
+			 children_node:[
+			    {
+          scene_img_id : 5,
+          isRoot : false,
+          children_node:[],
+          children_coord:[]
+          }
+			 ],
+			 children_coord:[{x=0,y=-5,z=-10}]
+		 }
+	],
+	children_coord:[{x=5,y=-5,z=-10}]
+	},
+	{
+	scene_img_id : 3,
+	isRoot : false,
+	children_node:[],
+	children_coord:[]
+	 },
+	 {
+	 scene_img_id : 6,
+   	isRoot : false,
+   	children_node:[],
+   	children_coord:[]
+   	 }
+],
+children_coord:[
+	 {x=-5,y=-5,z=15},
+	 {x=-5,y=-5,z=-10},
+	 {x=0,y=0,z=-10}
+ ]
+},
+{
+scene_img_id : 1,
+isRoot : true,
+children_node:[
+	{
+	scene_img_id : 2,
+	isRoot : false,
+	children_node:[
+		 {
+			scene_img_id : 4,
+			 isRoot : false,
+			 children_node:[
+			    {
+          scene_img_id : 5,
+          isRoot : false,
+          children_node:[],
+          children_coord:[]
+          }
+			 ],
+			 children_coord:[{x=0,y=-5,z=-10}]
+		 }
+	],
+	children_coord:[{x=5,y=-5,z=-10}]
+	},
+	{
+	scene_img_id : 3,
+	isRoot : false,
+	children_node:[],
+	children_coord:[]
+	 }
+],
+children_coord:[
+	 {x=-5,y=-5,z=15},
+	 {x=-5,y=-5,z=-10}
+ ]
+}]
